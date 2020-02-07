@@ -64,10 +64,6 @@ for c in contours:
         print(cX,cY)     
  
 
-
- 
-
 cv.imshow('img',img)
-
 cv.waitKey(0)
 cv.destroyAllWindows()
